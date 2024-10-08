@@ -1,0 +1,55 @@
+Q1.List all the tools you might use as a web developer?
+Ans:
+1. Code Editors and IDEs
+->Visual Studio Code
+->Sublime Text
+->WebStorm
+2. Version Control
+->Git
+->GitHub
+->GitLab
+3. Front-End Frameworks/Libraries
+->React
+->Angular
+->Vue.js
+->Bootstrap
+4. Back-End Frameworks
+->Node.js
+->Express.js
+->Django
+5. Package Managers
+->npm
+->Yarn
+6. Build Tools
+->Webpack
+->Gulp
+7. Testing Tools
+->Jest
+->Cypress
+->Postman
+8. Development Tools
+->Chrome DevTools
+->Fiddler
+9. Deployment Tools
+->Docker
+->Heroku
+->Netlify
+10. Design and Prototyping
+->Figma
+->Adobe XD
+
+
+Q2.What are some of the features of PW Skills Online Lab? Explain how they are useful?
+Ans:  Here’s a brief overview of PW Skills Online Lab features and their benefits:
+
+(a)Interactive Coding Environment: Code directly on the platform without setup, making it easier for beginners to start coding right away.
+
+(b)Project-Based Learning: Hands-on projects help build a portfolio and apply theoretical knowledge practically.
+
+(c)Data Science & ML Tools: Includes Jupyter notebooks, Pandas, and more, enabling real-world data analysis and model building.
+
+(d)Auto-Grading & Feedback: Instant feedback on assignments helps learners quickly identify and correct mistakes.
+
+(e)Collaborative Features: Shared coding environments allow teamwork, simulating real-world job scenarios.
+
+(f)Structured Learning Paths: Guided modules, coding exercises, and quizzes make complex subjects manageable.
